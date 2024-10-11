@@ -30,8 +30,8 @@ Rangmang is a project designed to control RGB LED strips via Bluetooth serial co
 - Rangmang
 - Bluetooth Serial Communication
 -Control RGB LED strips wirelessly.
--Customize buttons to send specific commands.
+-Customize buttons to send specific commands
 -Dynamic Lighting Effects
--Create and save custom lighting patterns.
+-Create and save custom lighting patterns
 -Integration with SwiftDesign
 -Seamlessly integrates with SwiftDesign for enhanced functionality
