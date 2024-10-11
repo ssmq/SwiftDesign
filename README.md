@@ -13,3 +13,9 @@ Bluetooth Serial Interface to Send data to microcontrollers
 - custom-ui
 - Bluetooth-microcontrollers
 - Bluetooth Serial Interface to Send data to microcontrollers
+- HC-05
+- Bluetooth UART
+- Arduino Bluetooth
+- HC-06
+- ESP32
+- Bluetooth Serial
