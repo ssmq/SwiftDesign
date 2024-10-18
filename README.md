@@ -22,6 +22,9 @@ Rangmang is a project designed to control RGB LED strips via Bluetooth serial co
 - Bluetooth Serial Interface to Send data to microcontrollers
 - HC-05
 - Bluetooth UART
+- RGB program
+- WS2811
+- WS2812
 - Arduino Bluetooth
 - HC-06
 - ESP32
